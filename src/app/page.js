@@ -21,7 +21,7 @@ export default function Home() {
 
           {/* Input Mode Toggle */}
           <div className="flex justify-center gap-4 mb-8">
-            <button
+            {/* <button
               onClick={() => setMode('task')}
               className={`px-4 py-2 rounded-lg transition-colors ${mode === 'task'
                   ? 'bg-blue-600 text-white'
@@ -29,7 +29,7 @@ export default function Home() {
                 }`}
             >
               Single Task
-            </button>
+            </button> */}
             <button
               onClick={() => setMode('transcript')}
               className={`px-4 py-2 rounded-lg transition-colors ${mode === 'transcript'
