@@ -1,5 +1,6 @@
 # Enterprise-Grade To-Do List
-<img src="./@proof_images//Q2.1 Interprise grade todolist.png" />
+<img src="./@proof_images//Q2.1 AI Meeting Minutes to Task Converter.png" />
+<img src="./@proof_images//Q2.2 AI Meeting Minutes to Task Converter.png" />
 ## Overview
 This is a modern, AI-enabled to-do list application built using the latest web technologies. The application leverages AI capabilities to enhance task management and productivity. It is designed to be user-friendly, responsive, and feature-rich.
 
@@ -23,7 +24,7 @@ This is a modern, AI-enabled to-do list application built using the latest web t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:jainhemant-dev/a002-t002-ai-meeting-minutes-to-task-converter.git
    cd a002-t001-enterprise-grade-to-do-list
    ```
 2. Install dependencies:
